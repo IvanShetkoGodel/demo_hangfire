@@ -1,0 +1,6 @@
+C:\Users\Ivan Shetko\Desktop\hangfire\4-exercise-files\SeparateService\WindosService\After\RouteDelivery.Models\bin\Debug\RouteDelivery.Models.dll
+C:\Users\Ivan Shetko\Desktop\hangfire\4-exercise-files\SeparateService\WindosService\After\RouteDelivery.Models\bin\Debug\RouteDelivery.Models.pdb
+C:\Users\Ivan Shetko\Desktop\hangfire\4-exercise-files\SeparateService\WindosService\After\RouteDelivery.Models\obj\Debug\RouteDelivery.Models.csprojResolveAssemblyReference.cache
+C:\Users\Ivan Shetko\Desktop\hangfire\4-exercise-files\SeparateService\WindosService\After\RouteDelivery.Models\obj\Debug\RouteDelivery.Models.csproj.CoreCompileInputs.cache
+C:\Users\Ivan Shetko\Desktop\hangfire\4-exercise-files\SeparateService\WindosService\After\RouteDelivery.Models\obj\Debug\RouteDelivery.Models.dll
+C:\Users\Ivan Shetko\Desktop\hangfire\4-exercise-files\SeparateService\WindosService\After\RouteDelivery.Models\obj\Debug\RouteDelivery.Models.pdb

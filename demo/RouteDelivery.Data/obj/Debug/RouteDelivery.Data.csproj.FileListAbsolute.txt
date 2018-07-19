@@ -1,0 +1,13 @@
+C:\Users\Ivan Shetko\Desktop\hangfire\4-exercise-files\SeparateService\WindosService\After\RouteDelivery.Data\bin\Debug\RouteDelivery.Data.dll.config
+C:\Users\Ivan Shetko\Desktop\hangfire\4-exercise-files\SeparateService\WindosService\After\RouteDelivery.Data\bin\Debug\RouteDelivery.Data.dll
+C:\Users\Ivan Shetko\Desktop\hangfire\4-exercise-files\SeparateService\WindosService\After\RouteDelivery.Data\bin\Debug\RouteDelivery.Data.pdb
+C:\Users\Ivan Shetko\Desktop\hangfire\4-exercise-files\SeparateService\WindosService\After\RouteDelivery.Data\bin\Debug\EntityFramework.dll
+C:\Users\Ivan Shetko\Desktop\hangfire\4-exercise-files\SeparateService\WindosService\After\RouteDelivery.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ivan Shetko\Desktop\hangfire\4-exercise-files\SeparateService\WindosService\After\RouteDelivery.Data\bin\Debug\RouteDelivery.Models.dll
+C:\Users\Ivan Shetko\Desktop\hangfire\4-exercise-files\SeparateService\WindosService\After\RouteDelivery.Data\bin\Debug\RouteDelivery.Models.pdb
+C:\Users\Ivan Shetko\Desktop\hangfire\4-exercise-files\SeparateService\WindosService\After\RouteDelivery.Data\bin\Debug\EntityFramework.xml
+C:\Users\Ivan Shetko\Desktop\hangfire\4-exercise-files\SeparateService\WindosService\After\RouteDelivery.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ivan Shetko\Desktop\hangfire\4-exercise-files\SeparateService\WindosService\After\RouteDelivery.Data\obj\Debug\RouteDelivery.Data.csprojResolveAssemblyReference.cache
+C:\Users\Ivan Shetko\Desktop\hangfire\4-exercise-files\SeparateService\WindosService\After\RouteDelivery.Data\obj\Debug\RouteDelivery.Data.csproj.CoreCompileInputs.cache
+C:\Users\Ivan Shetko\Desktop\hangfire\4-exercise-files\SeparateService\WindosService\After\RouteDelivery.Data\obj\Debug\RouteDelivery.Data.dll
+C:\Users\Ivan Shetko\Desktop\hangfire\4-exercise-files\SeparateService\WindosService\After\RouteDelivery.Data\obj\Debug\RouteDelivery.Data.pdb
